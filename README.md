@@ -81,8 +81,16 @@ O `main()` só coordena: declara os vetores, chama as funções na ordem, compar
 
 ## Capturas de tela
 
-As capturas estão na pasta [`capturas/`](capturas):
+Capturas feitas no compilador online OnlineGDB. Elas estão na pasta [`capturas/`](capturas):
 
 - `teste-principal.png`: teste 1 (exemplo)
+
+  ![Teste principal](capturas/teste-principal.png)
+
 - `ordem-inversa.png`: teste 3
-- `valores-repetidos.png`: teste 4
+
+  ![Ordem inversa](capturas/ordem-inversa.png)
+
+- `valores-repetidos.png`: teste 4, que também mostra a validação recusando -5
+
+  ![Valores repetidos](capturas/valores-repetidos.png)
